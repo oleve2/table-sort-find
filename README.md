@@ -11,3 +11,4 @@ This is a demo of tabular data representaion, with sorting by column and fulltex
 2. change dir to "generate_table_data" and run the script
 3. copy data from generated 'data.json' to the variable **d** in js/data.js file
 
+demo deployed at https://oleve2.github.io/table-sort-find/
