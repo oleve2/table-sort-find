@@ -1,0 +1,36 @@
+
+/*
+table, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+*/
+
+thead {
+    font-weight: bold;
+}
+
+#sorting-div span {
+    margin-right: 20px;
+}
+
+#sorting-div select {
+    margin-right: 20px;
+}
+
+
+#search {
+    display: flex;
+}
+
+#search select {
+    margin-right: 20px;
+}
+#search span {
+    margin-right: 20px;
+}
+#search_id {
+    max-width: 50%;
+}
+
+
